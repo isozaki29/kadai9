@@ -1,0 +1,7 @@
+constracter injection
+
+@PathVariable
+→動的なURLを受け取るためのアノテーション
+
+@RequestParam
+→クエリパラメータを受け取るためのアノテーション
